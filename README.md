@@ -10,7 +10,7 @@ Desenvolvimento do projeto "Sistema de Controle Financeiro" com o intuito de reg
 - [Diana Osorio](https://github.com/diana468)
 - [Diogo Moura](https://github.com/)
 - [Felipe Zanardo](https://github.com/FelipeBZanardo)
-- [Thiago Silva](https://github.com/)
+- [Thiago Silva](https://github.com/thiagodemedeiros)
 
 ## 📋Enunciado do Projeto
 
